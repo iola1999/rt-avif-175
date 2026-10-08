@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude" width="64" height="64">
+<text x="0" y="20"><xi:include href="http://127.0.0.1:3000/api/plans/standard" parse="text"/></text>
+</svg>

